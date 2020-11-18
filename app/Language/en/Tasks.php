@@ -1,0 +1,28 @@
+<?php
+
+return [
+    'create_successful' => 'Task created successfully',
+    'update_successful' => 'Task updated successfully',
+    'deleted' => 'Task deleted',
+    'task_not_found' => 'Cannot find the task with ID',
+    'title' => 'Tasks',
+    'new' => 'New task',
+    'search' => 'Search',
+    'no_tasks_found' => 'No tasks found',
+    'title_task' => 'Task',
+    'back_to_index' => 'back to index',
+    'id' => 'ID',
+    'description' => 'Description',
+    'created_at' => 'Created at',
+    'updated_at' => 'Updated at',
+    'edit' => 'Edit',
+    'delete' => 'Delete',
+    'new_task' => 'New task',
+    'cancel' => 'Cancel',
+    'save' => 'Save',
+    'edit_task' => 'Edit task',
+    'delete_task' => 'Delete task',
+    'are_you_sure' => 'Are you sure?',
+    'yes' => 'Yes',
+    'description_required' => 'Please enter a description',
+];
